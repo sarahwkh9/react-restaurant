@@ -29,8 +29,11 @@ function Home() {
                     </div>
                     <div className='col-lg-6 d-flex flex-column align-items-center justify-content-center'>
                         <h2 className='fs-1 mb-5 text-uppercase fw-bold'>About Us</h2>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident voluptate aut dolore ullam quasi numquam quod molestias cum officiis perspiciatis?</p>
-                        <p className='mb-5'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ab magni animi tenetur eaque vel accusamus placeat quaerat ad. Similique quaerat qui doloribus assumenda deserunt tenetur quas suscipit officiis quod sequi?</p>
+                        <p>LWelcome to Sara's Restaurant, where passion meets flavor. Our goal is to serve delicious meals in a warm and friendly atmosphere.",
+    "Located in the heart of Amman, Jordan, we specialize in fresh ingredients, creative recipes, and exceptional service.",
+    "Whether you're here for breakfast, lunch, or dinner, every dish is crafted to make your experience unforgettable.",
+    "Our team believes that great food brings people together, and we strive to make every visit a memorable one.",
+    "Join us at Sara's Restaurant and enjoy a taste of comfort, quality, and excellence in every bite. </p>
                         <Link to="/about">
                             <button type='button' className='btn btn-outline-success btn-lg'>More About Us</button>
                         </Link>
