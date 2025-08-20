@@ -9,7 +9,7 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 
 function App() {
-  const restaurantName = "Sara's Restaurant"; // اسم المطعم بالإنجليزي
+  const restaurantName = "Sara's Restaurant";
 
   return (
     <div>
