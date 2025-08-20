@@ -9,13 +9,15 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 
 function App() {
+  const restaurantName = "Sara's Restaurant"; // اسم المطعم بالإنجليزي
+
   return (
     <div>
       <Navbar expand="lg" className='fixed-top bg-body-tertiary shadow'>
         <Container>
           <Navbar.Brand>
             <Link to="/" className='navbar-brand text-success fw-semibold'>
-           Sara's Restaurant
+              {restaurantName}
             </Link>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
@@ -38,7 +40,7 @@ function App() {
       </Routes>
 
       <footer className='bg-body-tertiary'>
-        <p className='p-3 m-0 text-center'>copyright @ made by Ionut Cora</p>
+        <p className='p-3 m-0 text-center'>Sara's Restaurant | Amman, Jordan</p>
       </footer>
     </div>
   );
