@@ -15,11 +15,8 @@ function About() {
             </header>
 
             <div className='container my-5'>
-                <p>Welcome to Sarah's Restaurant, where culinary excellence meets a cozy ambiance. 
-  Located in the heart of Amman, Jordan, we offer a wide variety of delicious dishes crafted 
-  from the freshest ingredients. Our mission is to provide every guest with an unforgettable  
-  dining experience, combining flavors, creativity, and warm hospitality. Come and enjoy a taste 
-  of passion in every bite! </p>
+                <p>Welcome to Sarah's Restaurant, where culinary excellence meets a cozy ambiance, Located in the heart of Amman, Jordan, we offer a wide variety of delicious dishes crafted from the freshest ingredients. 
+                    Our mission is to provide every guest with an unforgettable dining experience, combining flavors, creativity, and warm hospitality, come and enjoy a taste of passion in every bite! </p>
 
                 <div className='row'>
                     <div className='col-lg-6'>
