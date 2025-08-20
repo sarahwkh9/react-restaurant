@@ -16,7 +16,7 @@ export function Reviews() {
                         <CardBody>
                             <div className="p-4">
                                 <CardText>
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi iste culpa perspiciatis. Magnam, explicabo cumque.
+Amazing food and cozy atmosphere! Highly recommend Sarah's Restaurant.
                                 </CardText>
                             </div>
                         </CardBody>
@@ -31,7 +31,8 @@ export function Reviews() {
                         <CardBody>
                             <div className="p-4">
                                 <CardText>
-                                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolores, mollitia?
+                                        comment: "The dishes are delicious and the staff is very friendly. Loved it!",
+
                                 </CardText>
                             </div>
                         </CardBody>
@@ -46,7 +47,7 @@ export function Reviews() {
                         <CardBody>
                             <div className="p-4">
                                 <CardText>
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam dolor itaque reprehenderit minus tempore. Iste quibusdam facilis excepturi nihil maiores!
+                                    Great place for family dinners. The service was excellent.
                                 </CardText>
                             </div>
                         </CardBody>
@@ -61,8 +62,7 @@ export function Reviews() {
                         <CardBody>
                             <div className="p-4">
                                 <CardText>
-                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum et voluptate minus error suscipit officiis placeat repudiandae quibusdam officia tempora, reprehenderit, enim, quidem exercitationem laborum!
-                                </CardText>
+One of the best restaurants in Amman! Highly satisfied.                                </CardText>
                             </div>
                         </CardBody>
                         <CardFooter className="d-flex align-items-center">
