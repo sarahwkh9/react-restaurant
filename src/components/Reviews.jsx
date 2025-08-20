@@ -31,7 +31,7 @@ Amazing food and cozy atmosphere! Highly recommend Sarah's Restaurant.
                         <CardBody>
                             <div className="p-4">
                                 <CardText>
-                                        comment: "The dishes are delicious and the staff is very friendly. Loved it!",
+                                        "The dishes are delicious and the staff is very friendly. Loved it!",
 
                                 </CardText>
                             </div>
